@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Anzar, a **A passionate language agnostic software engineer** (specializing in **Backend Applications**) .
+🎓 I am Anzar, a **passionate language agnostic software engineer** (specializing in **Backend Applications**) .
 
 👨‍💻 I am really enthusiastic about learning new technology. 
 I have a proven track record of owning and **delivering features** from technical discussions to release. 
